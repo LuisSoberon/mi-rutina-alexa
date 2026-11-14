@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "uid": "urn:uuid:cec3079f-bca4-43bb-b601-80fe49a52f19",
-      "updateDate": "2026-11-14T03:55:59Z",
-      "titleText": "Mi rutina nocturna",
-      "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Hoy no hubo compras en tus tarjetas: ni Scotiabank, ni HeyBanco, ni BBVA, ni Nu, ni Liverpool. Total gastado hoy: $0.00. Un día de tregua para la cartera, señor; hasta el Buen Fin parece haberle dado un respiro. Si no reconoces alguna compra, puedes levantar una aclaración mañana. Que descanses.",
+      "uid": "urn:uuid:717117d2-723f-4e92-ab10-36be332d8b8d",
+      "updateDate": "2026-11-14T13:57:44Z",
+      "titleText": "Mi rutina matutina",
+      "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: 3% del límite semanal gratuito; el límite se reinicia el viernes 20 de noviembre a las 11:21 de la mañana. Vamos sobrados, señor. Fechas de pago: hoy, sábado 14 de noviembre, toca el pago de la tarjeta Bancomer; el monto no está en el calendario, revísalo en la app. Mañana, domingo 15, toca el pago del Crédito Liverpool, 79 pesos para no generar intereses, mínimo 30, y el pago de la tarjeta HeyBanco. Además llegó el estado de cuenta de noviembre de tu tarjeta Scotiabank, terminación 9186: pago mínimo 2,500 pesos, fecha límite 2 de diciembre. Que tengas buen día.",
       "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
     }
   ]
