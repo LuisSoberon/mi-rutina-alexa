@@ -1,1 +1,11 @@
-[{"uid": "urn:uuid:0010f135-8db6-44a9-985b-6e8a34cd1fac", "updateDate": "2026-11-13T14:04:02Z", "titleText": "Mi rutina matutina", "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: estás al 98% de tu límite semanal gratuito, pero sin alarma, señor: el límite se reinicia hoy a las 11:15 de la mañana, así que en unas horas volvemos a tener la mansión en orden. Fechas de pago: mañana sábado 14 tienes el pago de tu TDC Bancomer, y el domingo 15 el de Crédito Liverpool, 79 pesos para no generar intereses, y el de HeyBanco; te sugiero revisar los montos en las apps, que el fin de semana vuela. No hay novedades de viajes. Que tengas buen día.", "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"}]
+{
+  "items": [
+    {
+      "uid": "urn:uuid:cec3079f-bca4-43bb-b601-80fe49a52f19",
+      "updateDate": "2026-11-14T03:55:59Z",
+      "titleText": "Mi rutina nocturna",
+      "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Hoy no hubo compras en tus tarjetas: ni Scotiabank, ni HeyBanco, ni BBVA, ni Nu, ni Liverpool. Total gastado hoy: $0.00. Un día de tregua para la cartera, señor; hasta el Buen Fin parece haberle dado un respiro. Si no reconoces alguna compra, puedes levantar una aclaración mañana. Que descanses.",
+      "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
+    }
+  ]
+}
