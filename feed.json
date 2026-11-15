@@ -1,11 +1,1 @@
-{
-  "items": [
-    {
-      "uid": "urn:uuid:717117d2-723f-4e92-ab10-36be332d8b8d",
-      "updateDate": "2026-11-14T13:57:44Z",
-      "titleText": "Mi rutina matutina",
-      "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: 3% del límite semanal gratuito; el límite se reinicia el viernes 20 de noviembre a las 11:21 de la mañana. Vamos sobrados, señor. Fechas de pago: hoy, sábado 14 de noviembre, toca el pago de la tarjeta Bancomer; el monto no está en el calendario, revísalo en la app. Mañana, domingo 15, toca el pago del Crédito Liverpool, 79 pesos para no generar intereses, mínimo 30, y el pago de la tarjeta HeyBanco. Además llegó el estado de cuenta de noviembre de tu tarjeta Scotiabank, terminación 9186: pago mínimo 2,500 pesos, fecha límite 2 de diciembre. Que tengas buen día.",
-      "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
-    }
-  ]
-}
+{"items": [{"uid": "urn:uuid:aa7dddd9-2a39-4e52-a558-5759c44651f2", "updateDate": "2026-11-15T03:57:11.0Z", "titleText": "Mi rutina nocturna", "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Tarjeta Scotiabank terminación 9186: Netflix, 369 pesos, cargo automático. Tarjeta HeyBanco terminación 8230: Parco, 45 pesos a las 16:59, y Parco, 110 pesos a las 19:32. Total gastado hoy: 524 pesos. Del día anterior, que no alcanzó a entrar en el reporte de ayer: pedidos de Amazon del 13 de noviembre: funda para MacBook, 315.92 pesos; perfume Swiss Arabian, 1,032.50 pesos; cargador Anker, 582.35 pesos; y en Mercado Libre, 3 masajeadores, monto no visible en el correo. Subtotal del día anterior: 1,930.77 pesos. Total general: 2,454.77 pesos, sin contar los masajeadores. Netflix cobró puntual como siempre, señor, y Parco pasó dos veces por caja: parece que el Buen Fin también aplica al estacionamiento. Si alguna compra no la reconoce, puede levantar una aclaración mañana. Que descanses.", "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"}]}
