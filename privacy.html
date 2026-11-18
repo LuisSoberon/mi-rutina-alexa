@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de privacidad — Mi rutina</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; line-height: 1.6; max-width: 720px; margin: 2rem auto; padding: 0 1rem; color: #222; }
+  h1 { font-size: 1.6rem; }
+  h2 { font-size: 1.2rem; margin-top: 1.5rem; }
+  footer { margin-top: 2rem; font-size: 0.9rem; color: #666; }
+</style>
+</head>
+<body>
+<h1>Política de privacidad de la skill «Mi rutina»</h1>
+<p><strong>Última actualización:</strong> 18 de noviembre de 2026.</p>
+
+<h2>Qué hace la skill</h2>
+<p>«Mi rutina» es una skill personal de Alexa que lee en voz alta el resumen diario de su dueño: lo importante del día por la mañana y sus compras y movimientos por la noche. El resumen se lee desde un archivo JSON público (<code>feed.json</code>) que el dueño actualiza con sus propias rutinas.</p>
+
+<h2>Qué datos se recopilan</h2>
+<p>La skill <strong>no recopila, no guarda y no comparte ningún dato personal</strong>. No pide ni almacena nombres, correos, direcciones, ubicaciones, grabaciones ni información de pagos. No usa cookies ni analítica.</p>
+
+<h2>El identificador de usuario de Alexa</h2>
+<p>Alexa entrega a la skill un identificador anónimo de usuario (<em>userId</em>), distinto por cada skill y cada cuenta. La skill lo usa <strong>únicamente</strong> para comprobar que quien la invoca es su dueño y así evitar que otras personas escuchen el resumen personal. Ese identificador no se guarda en ninguna base de datos ni se comparte con nadie: solo se compara en memoria con la lista de usuarios permitidos mientras se atiende la petición. Los registros de la función Lambda de Amazon pueden conservar temporalmente el identificador en los logs del servicio, según las políticas de Amazon Web Services, pero la skill no lo almacena por su cuenta.</p>
+
+<h2>Datos de terceros</h2>
+<p>El archivo del resumen (<code>feed.json</code>) está alojado en GitHub Pages, un servicio público. Su contenido es el resumen personal del dueño y solo lo lee la skill cuando el dueño la invoca.</p>
+
+<h2>Menores de edad</h2>
+<p>La skill no está dirigida a menores de 13 años y no recopila información de menores.</p>
+
+<h2>Cambios a esta política</h2>
+<p>Si esta política cambia, la nueva versión se publicará en esta misma página.</p>
+
+<h2>Contacto</h2>
+<p>Para preguntas sobre esta política o sobre la skill, puedes abrir un <em>issue</em> en el repositorio del proyecto: <a href="https://github.com/LuisSoberon/mi-rutina-alexa">https://github.com/LuisSoberon/mi-rutina-alexa</a>.</p>
+
+<footer>Skill «Mi rutina» — política de privacidad.</footer>
+</body>
+</html>
