@@ -1,1 +1,9 @@
-{"uid": "urn:uuid:829132b5-9b81-4cdc-8b78-482dd349d07b", "updateDate": "2026-11-23T03:57:07Z", "titleText": "Mi rutina nocturna", "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Una sola compra: HeyBanco, tarjeta terminación 8230, en Capital Street, Guadalajara, 53 pesos, a las 18:53. Total gastado hoy: 53 pesos. Sin pedidos en línea y sin compras pendientes de ayer. Un domingo tranquilo para la cartera, señor; hasta el banco se tomó el día libre. Que descanses.", "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"}
+[
+  {
+    "uid": "urn:uuid:ab012c42-6eec-4464-968e-f18099097d2d",
+    "updateDate": "2026-11-23T13:57:58Z",
+    "titleText": "Mi rutina matutina",
+    "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: llevas el 12 por ciento de tu límite semanal gratuito, que se reinicia el viernes 27 de noviembre a las 6:42 de la tarde. Vas sobrado, ni el fantasma del límite te asusta todavía. Fechas de pago: hoy es el corte de tu tarjeta BBVA, así que ojo con lo que se acumule a partir de hoy. Viajes: el jueves 26 vuelas a Cancún, y hoy es el día del primer intento de check-in, que como siempre haces tú con tu equipo. Que tengas buen día.",
+    "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
+  }
+]
