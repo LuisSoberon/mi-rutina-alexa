@@ -1,9 +1,11 @@
-[
-  {
-    "uid": "urn:uuid:87765943-977b-4cfc-ba90-2023fc6052e4",
-    "updateDate": "2026-11-24T03:57:51Z",
-    "titleText": "Mi rutina nocturna",
-    "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Con tu tarjeta Scotiabank terminación 9186: una compra en Walmart por 655 pesos con 86 centavos, y un cargo automático de Walmart por 82 centavos. Subtotal del banco: 656 pesos con 68 centavos. Además, dos pedidos en Amazon, aún sin confirmar en el banco: un vaso humidificador Inhalo-Tech, 6 piezas, por 1,128 pesos con 50 centavos, y puntillas nasales para adulto, 6 piezas, por 600 pesos. Subtotal de pedidos: 1,728 pesos con 50 centavos. Total del día: 2,385 pesos con 18 centavos. Parece que hoy el súper y la farmacia se pusieron de acuerdo, señor: Walmart para la casa y Amazon para cuidar a Sandra. Si no reconoce alguna compra, puede levantar una aclaración mañana. Que descanses.",
-    "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
-  }
-]
+{
+  "items": [
+    {
+      "uid": "urn:uuid:30a0876c-376a-4736-9881-7dcb6beaf1c5",
+      "updateDate": "2026-11-24T13:59:13Z",
+      "titleText": "Mi rutina matutina",
+      "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: vas en el 15 por ciento de tu límite semanal gratuito, así que la semana va sobrada; el límite se reinicia el viernes 27 de noviembre a las 18:42. Fechas de pago: tu Scotiabank tiene pago mínimo de 2,500 pesos con fecha límite el 2 de diciembre, y tienes un recordatorio en el calendario para el 1 de diciembre; la Liverpool Visa son 79 pesos para no generar intereses, también para el 2 de diciembre. Viajes: tu vuelo a Cancún sale el jueves 26 a las 06:05, y el check-in debería abrirse mañana miércoles, así que ten el código a la mano. Que tengas buen día.",
+      "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
+    }
+  ]
+}
