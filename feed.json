@@ -1,9 +1,9 @@
 [
   {
-    "uid": "urn:uuid:ab012c42-6eec-4464-968e-f18099097d2d",
-    "updateDate": "2026-11-23T13:57:58Z",
-    "titleText": "Mi rutina matutina",
-    "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: llevas el 12 por ciento de tu límite semanal gratuito, que se reinicia el viernes 27 de noviembre a las 6:42 de la tarde. Vas sobrado, ni el fantasma del límite te asusta todavía. Fechas de pago: hoy es el corte de tu tarjeta BBVA, así que ojo con lo que se acumule a partir de hoy. Viajes: el jueves 26 vuelas a Cancún, y hoy es el día del primer intento de check-in, que como siempre haces tú con tu equipo. Que tengas buen día.",
+    "uid": "urn:uuid:87765943-977b-4cfc-ba90-2023fc6052e4",
+    "updateDate": "2026-11-24T03:57:51Z",
+    "titleText": "Mi rutina nocturna",
+    "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Con tu tarjeta Scotiabank terminación 9186: una compra en Walmart por 655 pesos con 86 centavos, y un cargo automático de Walmart por 82 centavos. Subtotal del banco: 656 pesos con 68 centavos. Además, dos pedidos en Amazon, aún sin confirmar en el banco: un vaso humidificador Inhalo-Tech, 6 piezas, por 1,128 pesos con 50 centavos, y puntillas nasales para adulto, 6 piezas, por 600 pesos. Subtotal de pedidos: 1,728 pesos con 50 centavos. Total del día: 2,385 pesos con 18 centavos. Parece que hoy el súper y la farmacia se pusieron de acuerdo, señor: Walmart para la casa y Amazon para cuidar a Sandra. Si no reconoce alguna compra, puede levantar una aclaración mañana. Que descanses.",
     "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
   }
 ]
