@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "uid": "urn:uuid:18c8da40-1d76-444a-9d1b-f51b214c633d",
-      "updateDate": "2026-11-25T03:57:30Z",
-      "titleText": "Mi rutina nocturna",
-      "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Hoy no hubo compras: no llegó ningún cargo de Scotiabank, HeyBanco, BBVA, Banamex, Nu ni Liverpool, y tampoco hubo pedidos en Amazon ni en Mercado Libre. Total gastado hoy: 0 pesos. Como nota, solo se registró una transferencia de 177 pesos a Sandra Margarita Soberon Maltoa por Nu a las 17:52, que no es una compra. Día de tregua para las tarjetas, señor: hasta el fondo de abundancia respira tranquilo esta noche. Que descanses.",
+      "uid": "urn:uuid:93734465-6bfb-4ed9-9341-6a8cd2c6ebc0",
+      "updateDate": "2026-11-25T14:00:43Z",
+      "titleText": "Mi rutina matutina",
+      "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: 19 por ciento del límite semanal gratuito; el límite se reinicia el viernes 27 de noviembre a las 18:42. Vas sobrado, ni al 20 por ciento llegamos. Fechas de pago: nada nuevo en el correo desde ayer. En el calendario se acerca el pago de la tarjeta Scotiabank, que vence el 2 de diciembre, con un mínimo de 2,500 pesos, y la Visa Liverpool también vence el 2 de diciembre, con 79 pesos para no generar intereses. Además tienes el pago de boletos de Kari el 1 de diciembre. Viajes: sin novedades en el correo, pero mañana a las 6:05 de la mañana despega tu vuelo a Cancún, el VB1057. Según la app de Viva, el check-in debería abrir hoy, así que la mochila lista y a volar. Que tengas buen día.",
       "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
     }
   ]
