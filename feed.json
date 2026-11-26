@@ -1,11 +1,1 @@
-{
-  "items": [
-    {
-      "uid": "urn:uuid:93734465-6bfb-4ed9-9341-6a8cd2c6ebc0",
-      "updateDate": "2026-11-25T14:00:43Z",
-      "titleText": "Mi rutina matutina",
-      "mainText": "Buenos días, Luis. Esta es tu rutina matutina. Uso de tokens: 19 por ciento del límite semanal gratuito; el límite se reinicia el viernes 27 de noviembre a las 18:42. Vas sobrado, ni al 20 por ciento llegamos. Fechas de pago: nada nuevo en el correo desde ayer. En el calendario se acerca el pago de la tarjeta Scotiabank, que vence el 2 de diciembre, con un mínimo de 2,500 pesos, y la Visa Liverpool también vence el 2 de diciembre, con 79 pesos para no generar intereses. Además tienes el pago de boletos de Kari el 1 de diciembre. Viajes: sin novedades en el correo, pero mañana a las 6:05 de la mañana despega tu vuelo a Cancún, el VB1057. Según la app de Viva, el check-in debería abrir hoy, así que la mochila lista y a volar. Que tengas buen día.",
-      "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
-    }
-  ]
-}
+{"items": [{"uid": "urn:uuid:983d5772-09df-4960-9a9a-f4bab1279b73", "updateDate": "2026-11-26T03:58:25Z", "titleText": "Mi rutina nocturna", "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. HeyBanco, terminación 8230: Uber, 579 pesos con 94 centavos, a las 15:36; Super Rides Ciudad de México, 497 pesos con 80 centavos, a las 15:28. Subtotal de hoy: 1,077 pesos con 74 centavos. Del día anterior, que no alcanzaron a entrar en el reporte de ayer: Scotiabank, terminación 9186, DE BARI, 84 pesos; HeyBanco, terminación 8230, La Taquería, en Zapopan, 148 pesos con 35 centavos. Subtotal del día anterior: 232 pesos con 35 centavos. Sin pedidos en línea hoy. Total general: 1,310 pesos con 9 centavos. Dos carreras en ocho minutos, señor: o la ciudad lo trajo de un lado a otro, o los choferes se lo disputaron. Todo en orden. Que descanses.", "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"}]}
