@@ -1,7 +1,7 @@
 {
-  "uid": "urn:uuid:b1719536-8ce0-478e-bafb-fc1eec5fd80b",
-  "updateDate": "2026-11-27T03:58:24Z",
-  "titleText": "Mi rutina nocturna",
-  "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Hoy no llegó ningún aviso de compra de los bancos: ni Scotiabank, ni HeyBanco, ni BBVA, ni Banamex, ni Nu, ni Liverpool. Tampoco quedaron compras de ayer sin reportar. En pedidos en línea, Amazon: monitor BenQ MA270U de 27 pulgadas 4K, pedido 702-2128729-2453068, por 9,617 pesos con 31 centavos, que llega el sábado; y Echo Show 11, pedido 702-4729165-3302645, por 2,980 pesos con 69 centavos, que llega hoy. Total del día: 12,598 pesos, todo en pedidos de Amazon, con el cargo en el banco aún por confirmar. Parece que el Black Friday lo encontró a las 4 de la mañana camino al aeropuerto, señor; el monitor ya viene en camino. Si alguna compra no la reconoce, puede levantar una aclaración mañana. Que descanses.",
+  "uid": "urn:uuid:c427723d-748c-4fc3-878f-e0772c579e98",
+  "updateDate": "2026-11-27T13:58:46Z",
+  "titleText": "Mi rutina matutina",
+  "mainText": "Buenos días, Luis. Esta es tu rutina matutina.\n\nUso de tokens: vas en 24% de tu límite semanal gratuito, y el contador se reinicia hoy a las 18:42. Vas sobrado, señor; ni el Black Friday te hace gastar tokens.\n\nFechas de pago: llegó tu estado de cuenta BBVA de noviembre; el PDF viene protegido con tu RFC. Y ojo con el martes 1 de diciembre: ese día caen el pago de tu TDC Scotiabank y el pago de los boletos de Kari. El miércoles 2, Liverpool 79 pesos y el mínimo de Scotiabank de 2,500 pesos.\n\nQue tengas buen día.",
   "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
 }
