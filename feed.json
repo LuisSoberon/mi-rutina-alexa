@@ -1,7 +1,7 @@
 {
-  "uid": "urn:uuid:c427723d-748c-4fc3-878f-e0772c579e98",
-  "updateDate": "2026-11-27T13:58:46Z",
-  "titleText": "Mi rutina matutina",
-  "mainText": "Buenos días, Luis. Esta es tu rutina matutina.\n\nUso de tokens: vas en 24% de tu límite semanal gratuito, y el contador se reinicia hoy a las 18:42. Vas sobrado, señor; ni el Black Friday te hace gastar tokens.\n\nFechas de pago: llegó tu estado de cuenta BBVA de noviembre; el PDF viene protegido con tu RFC. Y ojo con el martes 1 de diciembre: ese día caen el pago de tu TDC Scotiabank y el pago de los boletos de Kari. El miércoles 2, Liverpool 79 pesos y el mínimo de Scotiabank de 2,500 pesos.\n\nQue tengas buen día.",
+  "uid": "urn:uuid:154d2697-a1b4-48e2-9d1d-3a5a02fc3e57",
+  "updateDate": "2026-11-28T03:59:48Z",
+  "titleText": "Mi rutina nocturna",
+  "mainText": "Buenas noches, Luis. Estas son tus compras de hoy. Hoy no hubo compras: ningún cargo llegó a sus tarjetas de Scotiabank, HeyBanco, BBVA, Banamex, Nu ni Liverpool, y tampoco hubo pedidos nuevos en línea. Parece que Cancún lo tiene demasiado entretenido como para gastar, señor; su cartera descansa por esta noche. Si no reconoce alguna compra, puede levantar una aclaración mañana. Que descanses.",
   "redirectionUrl": "https://github.com/LuisSoberon/mi-rutina-alexa"
 }
